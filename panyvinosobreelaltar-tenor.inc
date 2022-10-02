@@ -52,5 +52,29 @@
 		son o -- fren -- das "de a" -- mor.
 		Pan y vi -- no se -- rán des -- pués
 		tu cuer -- "po y" san -- gre, Se -- ñor.
+
+		% por los niños...
+		Por los ni -- ños "que em" -- pie -- zan la vi --da,
+		por los hom -- bres sin te -- cho "ni ho" -- gar, __
+		por los pue -- blos que su -- fren la gue -- rra,
+		"te o" -- fre -- ce -- mos el vi -- no "y el" pan.
+
+		% estribillo
+		Pan y vi -- no so -- "bre el" al -- tar
+		son o -- fren -- das "de a" -- mor.
+		Pan y vi -- no se -- rán des -- pués
+		tu cuer -- "po y" san -- gre, Se -- ñor.
+
+		% por aquéllos...
+		Por a -- qué -- llos a quie -- nes que -- re -- mos,
+		por no -- so -- tros y nues -- "tra a" -- mis -- tad, __
+		por los vi -- vos  y por los di -- fun -- tos,
+		"te o" -- fre -- ce -- mos el vi -- no "y el" pan.
+
+		% estribillo
+		Pan y vi -- no so -- "bre el" al -- tar
+		son o -- fren -- das "de a" -- mor.
+		Pan y vi -- no se -- rán des -- pués
+		tu cuer -- "po y" san -- gre, Se -- ñor.
 	}
 >>
