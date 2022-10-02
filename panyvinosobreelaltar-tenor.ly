@@ -28,6 +28,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "panyvinosobreelaltar-acordes.inc"
+		\include "panyvinosobreelaltar-marcas.inc"
 		\include "panyvinosobreelaltar-tenor.inc"
 	>>
 
