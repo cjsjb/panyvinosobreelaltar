@@ -40,7 +40,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% por los hombres...
 		Por los hom -- bres que vi -- ven u -- ni __ dos,
 		por los hom -- bres que bus -- can la paz, __

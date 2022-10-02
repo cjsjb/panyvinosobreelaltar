@@ -40,7 +40,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		% por los hombres...
 		Por los hom -- bres que vi -- ven u -- ni __ dos,
 		por los hom -- bres que bus -- can la paz, __
